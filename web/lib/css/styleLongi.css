@@ -1,0 +1,354 @@
+/* Tabs*/
+body {
+    font-family: Tahoma Arial;
+}
+
+section {
+    padding: 60px 0;
+}
+
+div .section-title {
+    text-align: center;
+    color: #007b5e;
+    margin-bottom: 50px;
+    text-transform: uppercase;
+}
+
+#tabs {
+    /*background: #007b5e;*/
+    /*background: bisque;*/
+    /*color: black;*/
+}
+
+#tabs h6.section-title {
+    color: #eee;
+}
+
+#tabs .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    color: #f3f3f3;
+    background-color: transparent;
+    border-color: transparent transparent #f3f3f3;
+    border-bottom: 4px solid !important;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#tabs .nav-tabs .nav-link {
+    border: none;
+    color: #17a2b8;
+    font-size: 20px;
+}
+
+#tabs .left {
+    float: right;
+    width: 35%;
+    height: 500px;
+}
+
+#tabs .left1 {
+    float: left;
+    width: 35%;
+    height: 500px;
+}
+
+form {
+    box-shadow: 0px 11px 9px 15px lightgrey;
+    height: 700px;
+
+}
+
+#tabs .right {
+    float: left;
+    width: 50%;
+    height: 700px;
+}
+
+#tabs .right1 {
+    float: right;
+    width: 50%;
+    height: 700px;
+}
+
+#tabs .userES {
+    padding-top: 7px;
+    font-size: 13px;
+    margin: -4px 5px 15px;
+}
+
+#tabs p {
+    margin-bottom: 0px !important;
+}
+
+#tabs .userES > label {
+    color: rgb(51, 51, 51);
+    font-weight: 400;
+    width: 75px;
+    display: inline-block;
+    font-size: 15px;
+}
+
+#tabs .userES input[type="text"] {
+    width: 80%;
+    height: 34px;
+    line-height: 34px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(204, 204, 204);
+    border-image: initial;
+    border-radius: 4px;
+    padding: 6px 12px;
+    outline: none;
+}
+
+#tabs .userES input[type="email"] {
+    width: 80%;
+    height: 34px;
+    line-height: 34px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(204, 204, 204);
+    border-image: initial;
+    border-radius: 4px;
+    padding: 6px 12px;
+    outline: none;
+}
+
+#tabs .userES input[type="password"] {
+    width: 80%;
+    height: 34px;
+    line-height: 34px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(204, 204, 204);
+    border-image: initial;
+    border-radius: 4px;
+    padding: 6px 12px;
+    outline: none;
+}
+
+#tabs .forgot-password a {
+    cursor: pointer;
+    color: rgb(0, 127, 240);
+
+}
+
+#tabs .forgot-password {
+    padding-bottom: 10px;
+}
+
+#tabs  .butDN {
+    font-weight: 400;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+    white-space: nowrap;
+    font-size: 14px;
+    user-select: none;
+    margin-bottom: 25px;
+    width: 88%;
+    height: 41px;
+    line-height: 41px;
+    border-width: 0px;
+    border-style: initial;
+    border-color: initial;
+    border-image: initial;
+    padding: 0px;
+    border-radius: 4px;
+    outline: none;
+    display: block;
+    color: rgb(74, 74, 74);
+    background: linear-gradient(to right, white 50%, yellow 50%);
+    background-size: 200% 100%;
+    background-position: right bottom;
+    transition: all .5s ease-out;
+
+}
+#tabs .butDN:hover {
+    color: black;
+    background-position: left bottom;
+    border: 1px solid black;
+}
+
+
+#tabs .butFB {
+    display: block;
+    font-weight: 400;
+    text-align: center;
+    vertical-align: middle;
+    touch-action: manipulation;
+    cursor: pointer;
+    white-space: nowrap;
+    font-size: 14px;
+    user-select: none;
+    margin-bottom: 25px;
+    width: 88%;
+    height: 41px;
+    line-height: 41px;
+    color: rgb(255, 255, 255);
+    border-width: 0px;
+    border-style: initial;
+    border-color: initial;
+    border-image: initial;
+    padding: 0px;
+    border-radius: 4px;
+    outline: none;
+    background: rgb(59, 89, 152);
+}
+
+#tabs .iconfb {
+    float: left;
+    height: 41px;
+    width: 41px;
+    border-right: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+#tabs .butgg {
+    display: inline-block;
+    font-weight: 400;
+    text-align: center;
+    vertical-align: middle;
+    touch-action: manipulation;
+    cursor: pointer;
+    white-space: nowrap;
+    font-size: 14px;
+    user-select: none;
+    margin-bottom: 25px;
+    width: 88%;
+    height: 41px;
+    line-height: 41px;
+    color: rgb(255, 255, 255);
+    border-width: 0px;
+    border-style: initial;
+    border-color: initial;
+    border-image: initial;
+    padding: 0px;
+    border-radius: 4px;
+    outline: none;
+    background: rgb(223, 74, 50);
+}
+
+#tabs .butig {
+    display: inline-block;
+    font-weight: 400;
+    text-align: center;
+    vertical-align: middle;
+    touch-action: manipulation;
+    cursor: pointer;
+    white-space: nowrap;
+    font-size: 14px;
+    user-select: none;
+    margin-bottom: 25px;
+    width: 88%;
+    height: 41px;
+    line-height: 41px;
+    color: rgb(255, 255, 255);
+    border-width: 0px;
+    border-style: initial;
+    border-color: initial;
+    border-image: initial;
+    padding: 0px;
+    border-radius: 4px;
+    outline: none;
+    background: #FD7338;
+}
+
+#tabs .DD {
+    width: 33.3333%;
+    padding: 0px 15px;
+}
+
+#tabs .MM {
+    width: 33.3333%;
+    padding: 0px 15px;
+}
+
+#tabs .YY {
+    width: 33.3333%;
+    padding: 0px 15px;
+}
+
+select {
+    width: 74%;
+    height: 27px;
+}
+
+#tabs.texAcpet {
+    display: inline-block;
+    cursor: pointer;
+    vertical-align: middle;
+}
+
+#tabs .btTTk {
+    display: block;
+    font-weight: 400;
+    text-align: center;
+    vertical-align: middle;
+    touch-action: manipulation;
+    cursor: pointer;
+    white-space: nowrap;
+    font-size: 14px;
+    user-select: none;
+    margin-bottom: 15px;
+    width: 100%;
+    height: 41px;
+    line-height: 41px;
+    background: rgb(253, 216, 53);
+    border-width: 0px;
+    border-style: initial;
+    border-color: initial;
+    border-image: initial;
+    padding-left: 20px;
+    border-radius: 4px;
+    outline: none;
+    color: rgb(74, 74, 74);
+    background: linear-gradient(to right, white 50%, yellow 50%);
+    background-size: 200% 100%;
+    background-position: right bottom;
+    transition: all .5s ease-out;
+}
+#tabs .btTTk:hover {
+    color: black;
+    background-position: left bottom;
+    border: 1px solid black;
+}
+
+button:hover span {
+    transform: translateY(0) scale(2);
+}
+
+button span:nth-child(1) {
+    --n: 1;
+}
+
+button span:nth-child(2) {
+    --n: 2;
+}
+
+button span:nth-child(3) {
+    --n: 3;
+}
+
+button span:nth-child(4) {
+    --n: 4;
+}
+
+.change:hover{
+    background-position: left bottom;
+
+}
+
+p.p_tags_ping {
+    POSITION: relative;
+    left: 80px;
+    top: 50px;
+}
+
+p.p_tags_ping_login {
+    POSITION: relative;
+    left: 135px;
+    padding: 10px 10px;
+    border: 1px solid red;
+    width: 253px;
+    color: white;
+    background-color: #bd2c2c;
+}

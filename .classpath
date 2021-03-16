@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/classes" path="out/artifacts/ProjectWeb_1920_war_exploded/Admin/lib/ckfinder/_source/CKFinder for Java/CKFinder/src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="out/artifacts/ProjectWeb_1920_war_exploded/Admin/lib/ckfinder/_source/CKFinder for Java/FileEditorPlugin/src/main/java"/>
+	<classpathentry kind="src" path="out/artifacts/ProjectWeb_1920_war_exploded/Admin/lib/ckfinder/_source/CKFinder for Java/ImageResizePlugin/src/main/java"/>
+	<classpathentry kind="src" path="out/artifacts/ProjectWeb_1920_war_exploded/Admin/lib/ckfinder/_source/CKFinder for Java/WatermarkPlugin/src/main/java"/>
+	<classpathentry kind="src" path="out/artifacts/ProjectWeb_1920_war_exploded/lib/ckfinder/_source/CKFinder for Java/CKFinder/src/main/java"/>
+	<classpathentry kind="src" path="out/artifacts/ProjectWeb_1920_war_exploded/lib/ckfinder/_source/CKFinder for Java/FileEditorPlugin/src/main/java"/>
+	<classpathentry kind="src" path="out/artifacts/ProjectWeb_1920_war_exploded/lib/ckfinder/_source/CKFinder for Java/ImageResizePlugin/src/main/java"/>
+	<classpathentry kind="src" path="out/artifacts/ProjectWeb_1920_war_exploded/lib/ckfinder/_source/CKFinder for Java/WatermarkPlugin/src/main/java"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="web/Admin/lib/ckfinder/_source/CKFinder for Java/CKFinder/src/main/java"/>
+	<classpathentry kind="src" path="web/Admin/lib/ckfinder/_source/CKFinder for Java/FileEditorPlugin/src/main/java"/>
+	<classpathentry kind="src" path="web/Admin/lib/ckfinder/_source/CKFinder for Java/ImageResizePlugin/src/main/java"/>
+	<classpathentry kind="src" path="web/Admin/lib/ckfinder/_source/CKFinder for Java/WatermarkPlugin/src/main/java"/>
+	<classpathentry kind="src" path="web/lib/ckfinder/_source/CKFinder for Java/CKFinder/src/main/java"/>
+	<classpathentry kind="src" path="web/lib/ckfinder/_source/CKFinder for Java/FileEditorPlugin/src/main/java"/>
+	<classpathentry kind="src" path="web/lib/ckfinder/_source/CKFinder for Java/ImageResizePlugin/src/main/java"/>
+	<classpathentry kind="src" path="web/lib/ckfinder/_source/CKFinder for Java/WatermarkPlugin/src/main/java"/>
+	<classpathentry kind="lib" path="lib/annotations-api.jar"/>
+	<classpathentry kind="lib" path="lib/catalina-ant.jar"/>
+	<classpathentry kind="lib" path="lib/catalina-ha.jar"/>
+	<classpathentry kind="lib" path="lib/catalina-storeconfig.jar"/>
+	<classpathentry kind="lib" path="lib/catalina-tribes.jar"/>
+	<classpathentry kind="lib" path="lib/catalina.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang-2.6-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang-2.6-sources.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="lib/ecj-4.6.3.jar"/>
+	<classpathentry kind="lib" path="lib/el-api.jar"/>
+	<classpathentry kind="lib" path="lib/jasper-el.jar"/>
+	<classpathentry kind="lib" path="lib/jasper.jar"/>
+	<classpathentry kind="lib" path="lib/jaspic-api.jar"/>
+	<classpathentry kind="lib" path="lib/javax.ejb.jar"/>
+	<classpathentry kind="lib" path="lib/javax.jms.jar"/>
+	<classpathentry kind="lib" path="lib/javax.persistence.jar"/>
+	<classpathentry kind="lib" path="lib/javax.resource.jar"/>
+	<classpathentry kind="lib" path="lib/javax.servlet.jsp.jstl.jar"/>
+	<classpathentry kind="lib" path="lib/javax.transaction.jar"/>
+	<classpathentry kind="lib" path="lib/jsp-api.jar"/>
+	<classpathentry kind="lib" path="lib/mail.jar"/>
+	<classpathentry kind="lib" path="lib/mailapi.jar"/>
+	<classpathentry kind="lib" path="lib/mysql-connector-java-5.1.26-bin.jar"/>
+	<classpathentry kind="lib" path="lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="lib/smtp.jar"/>
+	<classpathentry kind="lib" path="lib/tomcat-api.jar"/>
+	<classpathentry kind="lib" path="lib/tomcat-coyote.jar"/>
+	<classpathentry kind="lib" path="lib/tomcat-dbcp.jar"/>
+	<classpathentry kind="lib" path="lib/tomcat-i18n-es.jar"/>
+	<classpathentry kind="lib" path="lib/tomcat-i18n-fr.jar"/>
+	<classpathentry kind="lib" path="lib/tomcat-i18n-ja.jar"/>
+	<classpathentry kind="lib" path="lib/tomcat-i18n-ru.jar"/>
+	<classpathentry kind="lib" path="lib/tomcat-jdbc.jar"/>
+	<classpathentry kind="lib" path="lib/tomcat-jni.jar"/>
+	<classpathentry kind="lib" path="lib/tomcat-util-scan.jar"/>
+	<classpathentry kind="lib" path="lib/tomcat-util.jar"/>
+	<classpathentry kind="lib" path="lib/tomcat-websocket.jar"/>
+	<classpathentry kind="lib" path="lib/websocket-api.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/ProjectWeb_1920_war_exploded/Admin/lib/ckfinder/_source/CKFinder for Java/WebApp/src/main/webapp/WEB-INF/lib/commons-fileupload-1.2.2.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/ProjectWeb_1920_war_exploded/Admin/lib/ckfinder/_source/CKFinder for Java/WebApp/src/main/webapp/WEB-INF/lib/commons-io-2.0.1.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/ProjectWeb_1920_war_exploded/Admin/lib/ckfinder/WEB-INF/lib/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/ProjectWeb_1920_war_exploded/Admin/lib/ckfinder/WEB-INF/lib/CKFinder-2.6.3.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/ProjectWeb_1920_war_exploded/Admin/lib/ckfinder/WEB-INF/lib/CKFinderPlugin-FileEditor-2.6.3.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/ProjectWeb_1920_war_exploded/Admin/lib/ckfinder/WEB-INF/lib/CKFinderPlugin-ImageResize-2.6.3.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/ProjectWeb_1920_war_exploded/Admin/lib/ckfinder/WEB-INF/lib/CKFinderPlugin-Watermark-2.6.3.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/ProjectWeb_1920_war_exploded/Admin/lib/ckfinder/WEB-INF/lib/commons-fileupload-1.2.2.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/ProjectWeb_1920_war_exploded/Admin/lib/ckfinder/WEB-INF/lib/commons-io-2.0.1.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/ProjectWeb_1920_war_exploded/Admin/lib/ckfinder/WEB-INF/lib/gson-2.5.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/ProjectWeb_1920_war_exploded/Admin/lib/ckfinder/WEB-INF/lib/jboss-logging-3.1.4.GA.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/ProjectWeb_1920_war_exploded/Admin/lib/ckfinder/WEB-INF/lib/jboss-vfs-3.2.11.Final.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/ProjectWeb_1920_war_exploded/Admin/lib/ckfinder/WEB-INF/lib/mail-1.4.1.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/ProjectWeb_1920_war_exploded/Admin/lib/ckfinder/WEB-INF/lib/thumbnailator-0.4.8.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/ProjectWeb_1920_war_exploded/lib/ckfinder/_source/CKFinder for Java/WebApp/src/main/webapp/WEB-INF/lib/commons-fileupload-1.2.2.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/ProjectWeb_1920_war_exploded/lib/ckfinder/_source/CKFinder for Java/WebApp/src/main/webapp/WEB-INF/lib/commons-io-2.0.1.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/ProjectWeb_1920_war_exploded/WEB-INF/lib/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/ProjectWeb_1920_war_exploded/WEB-INF/lib/annotations-api.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/ProjectWeb_1920_war_exploded/WEB-INF/lib/catalina-ant.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/ProjectWeb_1920_war_exploded/WEB-INF/lib/catalina-ha.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/ProjectWeb_1920_war_exploded/WEB-INF/lib/catalina-storeconfig.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/ProjectWeb_1920_war_exploded/WEB-INF/lib/catalina-tribes.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/ProjectWeb_1920_war_exploded/WEB-INF/lib/catalina.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/ProjectWeb_1920_war_exploded/WEB-INF/lib/CKFinder-2.6.3.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/ProjectWeb_1920_war_exploded/WEB-INF/lib/CKFinderPlugin-FileEditor-2.6.3.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/ProjectWeb_1920_war_exploded/WEB-INF/lib/CKFinderPlugin-ImageResize-2.6.3.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/ProjectWeb_1920_war_exploded/WEB-INF/lib/CKFinderPlugin-Watermark-2.6.3.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/ProjectWeb_1920_war_exploded/WEB-INF/lib/commons-fileupload-1.2.2.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/ProjectWeb_1920_war_exploded/WEB-INF/lib/commons-io-2.0.1.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/ProjectWeb_1920_war_exploded/WEB-INF/lib/commons-lang-2.6-javadoc.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/ProjectWeb_1920_war_exploded/WEB-INF/lib/commons-lang-2.6-sources.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/ProjectWeb_1920_war_exploded/WEB-INF/lib/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/ProjectWeb_1920_war_exploded/WEB-INF/lib/ecj-4.6.3.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/ProjectWeb_1920_war_exploded/WEB-INF/lib/el-api.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/ProjectWeb_1920_war_exploded/WEB-INF/lib/gson-2.5.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/ProjectWeb_1920_war_exploded/WEB-INF/lib/jasper-el.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/ProjectWeb_1920_war_exploded/WEB-INF/lib/jasper.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/ProjectWeb_1920_war_exploded/WEB-INF/lib/jaspic-api.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/ProjectWeb_1920_war_exploded/WEB-INF/lib/javax.ejb.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/ProjectWeb_1920_war_exploded/WEB-INF/lib/javax.jms.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/ProjectWeb_1920_war_exploded/WEB-INF/lib/javax.persistence.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/ProjectWeb_1920_war_exploded/WEB-INF/lib/javax.resource.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/ProjectWeb_1920_war_exploded/WEB-INF/lib/javax.servlet.jsp.jstl.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/ProjectWeb_1920_war_exploded/WEB-INF/lib/javax.transaction.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/ProjectWeb_1920_war_exploded/WEB-INF/lib/jboss-logging-3.1.4.GA.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/ProjectWeb_1920_war_exploded/WEB-INF/lib/jboss-vfs-3.2.11.Final.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/ProjectWeb_1920_war_exploded/WEB-INF/lib/jsp-api.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/ProjectWeb_1920_war_exploded/WEB-INF/lib/mail-1.4.1.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/ProjectWeb_1920_war_exploded/WEB-INF/lib/mail.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/ProjectWeb_1920_war_exploded/WEB-INF/lib/mailapi.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/ProjectWeb_1920_war_exploded/WEB-INF/lib/mysql-connector-java-5.1.26-bin.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/ProjectWeb_1920_war_exploded/WEB-INF/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/ProjectWeb_1920_war_exploded/WEB-INF/lib/smtp.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/ProjectWeb_1920_war_exploded/WEB-INF/lib/thumbnailator-0.4.8.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/ProjectWeb_1920_war_exploded/WEB-INF/lib/tomcat-api.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/ProjectWeb_1920_war_exploded/WEB-INF/lib/tomcat-coyote.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/ProjectWeb_1920_war_exploded/WEB-INF/lib/tomcat-dbcp.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/ProjectWeb_1920_war_exploded/WEB-INF/lib/tomcat-i18n-es.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/ProjectWeb_1920_war_exploded/WEB-INF/lib/tomcat-i18n-fr.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/ProjectWeb_1920_war_exploded/WEB-INF/lib/tomcat-i18n-ja.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/ProjectWeb_1920_war_exploded/WEB-INF/lib/tomcat-i18n-ru.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/ProjectWeb_1920_war_exploded/WEB-INF/lib/tomcat-jdbc.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/ProjectWeb_1920_war_exploded/WEB-INF/lib/tomcat-jni.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/ProjectWeb_1920_war_exploded/WEB-INF/lib/tomcat-util-scan.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/ProjectWeb_1920_war_exploded/WEB-INF/lib/tomcat-util.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/ProjectWeb_1920_war_exploded/WEB-INF/lib/tomcat-websocket.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/ProjectWeb_1920_war_exploded/WEB-INF/lib/websocket-api.jar"/>
+	<classpathentry kind="lib" path="web/Admin/lib/ckfinder/_source/CKFinder for Java/WebApp/src/main/webapp/WEB-INF/lib/commons-fileupload-1.2.2.jar"/>
+	<classpathentry kind="lib" path="web/Admin/lib/ckfinder/_source/CKFinder for Java/WebApp/src/main/webapp/WEB-INF/lib/commons-io-2.0.1.jar"/>
+	<classpathentry kind="lib" path="web/Admin/lib/ckfinder/WEB-INF/lib/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="web/Admin/lib/ckfinder/WEB-INF/lib/CKFinder-2.6.3.jar"/>
+	<classpathentry kind="lib" path="web/Admin/lib/ckfinder/WEB-INF/lib/CKFinderPlugin-FileEditor-2.6.3.jar"/>
+	<classpathentry kind="lib" path="web/Admin/lib/ckfinder/WEB-INF/lib/CKFinderPlugin-ImageResize-2.6.3.jar"/>
+	<classpathentry kind="lib" path="web/Admin/lib/ckfinder/WEB-INF/lib/CKFinderPlugin-Watermark-2.6.3.jar"/>
+	<classpathentry kind="lib" path="web/Admin/lib/ckfinder/WEB-INF/lib/commons-fileupload-1.2.2.jar"/>
+	<classpathentry kind="lib" path="web/Admin/lib/ckfinder/WEB-INF/lib/commons-io-2.0.1.jar"/>
+	<classpathentry kind="lib" path="web/Admin/lib/ckfinder/WEB-INF/lib/gson-2.5.jar"/>
+	<classpathentry kind="lib" path="web/Admin/lib/ckfinder/WEB-INF/lib/jboss-logging-3.1.4.GA.jar"/>
+	<classpathentry kind="lib" path="web/Admin/lib/ckfinder/WEB-INF/lib/jboss-vfs-3.2.11.Final.jar"/>
+	<classpathentry kind="lib" path="web/Admin/lib/ckfinder/WEB-INF/lib/mail-1.4.1.jar"/>
+	<classpathentry kind="lib" path="web/Admin/lib/ckfinder/WEB-INF/lib/thumbnailator-0.4.8.jar"/>
+	<classpathentry kind="lib" path="web/lib/ckfinder/_source/CKFinder for Java/WebApp/src/main/webapp/WEB-INF/lib/commons-fileupload-1.2.2.jar"/>
+	<classpathentry kind="lib" path="web/lib/ckfinder/_source/CKFinder for Java/WebApp/src/main/webapp/WEB-INF/lib/commons-io-2.0.1.jar"/>
+	<classpathentry kind="lib" path="web/WEB-INF/lib/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="web/WEB-INF/lib/CKFinder-2.6.3.jar"/>
+	<classpathentry kind="lib" path="web/WEB-INF/lib/CKFinderPlugin-FileEditor-2.6.3.jar"/>
+	<classpathentry kind="lib" path="web/WEB-INF/lib/CKFinderPlugin-ImageResize-2.6.3.jar"/>
+	<classpathentry kind="lib" path="web/WEB-INF/lib/CKFinderPlugin-Watermark-2.6.3.jar"/>
+	<classpathentry kind="lib" path="web/WEB-INF/lib/commons-fileupload-1.2.2.jar"/>
+	<classpathentry kind="lib" path="web/WEB-INF/lib/commons-io-2.0.1.jar"/>
+	<classpathentry kind="lib" path="web/WEB-INF/lib/gson-2.5.jar"/>
+	<classpathentry kind="lib" path="web/WEB-INF/lib/jboss-logging-3.1.4.GA.jar"/>
+	<classpathentry kind="lib" path="web/WEB-INF/lib/jboss-vfs-3.2.11.Final.jar"/>
+	<classpathentry kind="lib" path="web/WEB-INF/lib/mail-1.4.1.jar"/>
+	<classpathentry kind="lib" path="web/WEB-INF/lib/mail.jar"/>
+	<classpathentry kind="lib" path="web/WEB-INF/lib/mailapi.jar"/>
+	<classpathentry kind="lib" path="web/WEB-INF/lib/smtp.jar"/>
+	<classpathentry kind="lib" path="web/WEB-INF/lib/thumbnailator-0.4.8.jar"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

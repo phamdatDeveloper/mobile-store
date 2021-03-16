@@ -1,0 +1,38 @@
+/*Content*/
+img.img-one-pp {
+    width: 80px;
+    height: 80px;
+    float: left;
+    margin-right: 10px;
+    border-radius: 50%;
+}
+
+a.title-one-pp {
+    text-decoration: none;
+    color: black;
+    font-size: 13px;
+    font-weight: bold;
+    transition: 0.5s;
+}
+
+a.title-one-pp:hover {
+    color: red;
+}
+
+span.time-release-one-pp {
+    color: #a5a0a2;
+}
+
+.one-pp-list {
+    padding: 0 5px 10px 5px;
+    margin-bottom: 20px;
+}
+
+.one-pp-list:last-child {
+    margin-bottom: 0px;
+}
+
+.col-lg-8 img{
+    width: 100%;
+}
+/*End Content*/

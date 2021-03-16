@@ -1,0 +1,93 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: arial;
+}
+label{
+    font-size: 20px;
+    font-weight: bold; 
+}
+.form-login{
+    width:  500px;
+    height: 300px;
+    background-color: #d6d6d6de;
+    margin: 100px auto;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0px 0px 20px 10px #ababab;
+    position: relative;
+}
+.title-login{
+    font-weight: bold;
+    font-size: 40px;
+    text-align: center;
+
+}
+
+.content-input{
+    width: 80%;
+    margin: 0px auto;
+    position: relative;
+    height: 100px;
+}
+.edit-input{
+    position: absolute;
+    right: 0;
+    width: 60%;
+    /* height: 0px; */
+    padding: 5px;
+    border-radius: 5px;
+    border: none; 
+    outline: none;
+}
+.content-username{
+    margin-bottom: 20px;
+}
+.btn-login{
+    width: 100px;
+    height: 30px;
+    /* margin: 0px auto; */
+    border: none;
+    border-radius: 7px;
+    cursor: pointer;
+    outline: none;
+    position: absolute;
+    left: 26%;
+    background-color: #adadad;
+    font-weight: bold;
+    transition: 0.5s;
+}
+.btn-login:hover{
+    box-shadow: 0px 0px 5px 5px #8c8b8b;
+    transition: 0.5s;
+}
+.btn-sign{
+    width: 100px;
+    height: 30px;
+    /* margin: 0px auto; */
+    border: none;
+    border-radius: 7px;
+    cursor: pointer;
+    outline: none;
+    position: absolute;
+    right: 26%;
+    background-color: #adadad;
+    font-weight: bold;
+    transition: 0.5s;
+}
+.btn-sign:hover{
+    box-shadow: 0px 0px 5px 5px #8c8b8b;
+    transition: 0.5s;
+}
+.forgot-pass{
+    position: absolute;
+    right: 15px;
+    bottom: 15px;
+    text-decoration: none;
+    color: black;
+    transition: 0.5s;
+}
+.forgot-pass:hover{
+    padding-bottom: 3px;
+    transition: 0.5s;
+}

@@ -1,0 +1,129 @@
+/*BLOG-POST*/
+
+/*carousel-blog*/
+.carousel-blog {
+    margin-bottom: 20px;
+}
+
+.control-icon {
+    width: 60px;
+    height: 80px;
+    background-color: #ffff0066;
+}
+
+li.bor-circle {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    border: 1px solid white;
+}
+
+p.text-carousel-blog {
+    display: block;
+    font-size: 35px;
+    background: #0000003d;
+    border-radius: 5px;
+}
+
+a.carousel-control-prev.control-icon {
+    position: absolute;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+span.icon-prev-control, span.icon-next-control {
+    width: 50px;
+    height: 50px;
+    font-size: 35px;
+    color: #000000ad;
+    background-image: none;
+}
+
+a.carousel-control-next.control-icon {
+    position: absolute;
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%);
+}
+/*end carousel-blog*/
+
+/*post*/
+
+.card-body .title-post {
+    text-decoration: none;
+}
+
+p.title-blog {
+    display: block;
+    font-size: 30px;
+    font-weight: bold;
+    padding-bottom: 10px;
+    width: 825px;
+    border-bottom: 3px solid gray;
+}
+
+p.text-above-post {
+    font-size: 30px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #cecece;
+}
+
+
+.big-title-pp {
+    padding: 10px;
+    color: white;
+    background-color: #0069d9;
+    font-weight: bold;
+    margin-bottom: 20px;
+    border-top: 1px solid #a5a0a2;
+    border-bottom: 1px solid #a5a0a2;
+}
+
+.popular-posts {
+    margin-top: 20px;
+    border-right: 1px solid #a5a0a2;
+    border-left: 1px solid #a5a0a2;
+    border-bottom: 1px solid #a5a0a2;
+    position: sticky;
+    top: 0;
+    background-color: white;
+}
+
+img.img-one-pp {
+    width: 80px;
+    height: 80px;
+    float: left;
+    margin-right: 10px;
+    border-radius: 50%;
+}
+
+a.title-one-pp {
+    display: block;
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+    font-weight: bold;
+    transition: 0.5s;
+}
+
+a.title-one-pp:hover {
+    color: #00c6ff;
+}
+
+span.time-release-one-pp {
+    color: #a5a0a2;
+}
+
+.one-pp-list {
+    border-bottom: 1px solid #dedede;
+    padding: 0 5px 10px 5px;
+    margin-bottom: 10px;
+}
+
+.one-pp-list:last-child {
+    margin-bottom: 0px;
+}
+/*end post*/
+
+/*end blog-post*/

@@ -1,0 +1,186 @@
+/*Phần content*/
+.contain-btn {
+    width: 95%;
+    margin: 0px auto;
+}
+
+.button-top {
+    margin: 10px;
+    width: 150px;
+    height: 50px;
+    background-color: #17a2b8;
+    color: white;
+    transition: 0.5s;
+
+}
+
+.button-top:hover {
+    margin-top: 0px;
+    transition: 0.5s;
+}
+
+.title {
+    display: block;
+    padding: 10px 10px 10px 0px;
+    margin: 0px;
+    color: red;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+.input-search {
+    border-radius: 7px;
+    border: 1px solid #f3f3f3;
+    outline: none;
+    padding: 2px;
+}
+
+.price-limit {
+    text-decoration: none;
+    float: left;
+    display: block;
+    padding: 13px;
+}
+
+.price-limit:hover {
+    text-decoration: none;
+    color: black;
+    padding-top: 12px;
+    transition: 0.5s;
+}
+
+#more {
+    display: none;
+}
+
+.sort {
+    width: 164px;
+    height: 30px;
+    border-radius: 8px;
+    border-color: #bfbfbf;
+    margin: 10px 0px 10px 10px;
+    color: #0056b3;
+    float: right;
+    outline: none;
+}
+
+/*one product*/
+.one-product-list {
+    /*border: 1px solid #eee;*/
+    overflow: hidden;
+    transition: 0.5s;
+    padding: 0 5px;
+    float: left;
+    margin-bottom: 5px;
+}
+
+.one-product-list:nth-child(3) {
+    margin-right: 0px;
+}
+
+.one-product-list:hover {
+    transform: translateY(-10px);
+    box-shadow: 0px 0px 10px 4px lightgray;
+}
+
+.one-product-list hr {
+    opacity: 0;
+}
+
+.one-product-list:hover hr {
+    opacity: 1;
+}
+
+.one-product-list img.img-one-product-list {
+    width: 100%;
+    height: 280px;
+    margin-bottom: 10px;
+    transition: 0.5s;
+    padding: 25px;
+}
+
+.one-product-list:hover img.img-one-product-list {
+    transform: scale(1.1);
+}
+.active-number{
+    background-color: #eeeeee;
+}
+a.name-product-opl {
+    color: rgba(0, 0, 0, 0.8);
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+    transition: 0.5s;
+}
+
+.one-product-list:hover a.name-product-opl {
+    color: #337ab7;
+}
+
+p.price-product-opl {
+    color: #ff050a;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.btn-detail-product {
+    width: 48%;
+    border: 1px solid lightgray;
+    background-color: #333333;
+    color: white;
+    margin-bottom: 10px;
+    transition: 0.6s;
+    box-shadow: inset 0 0 0 0 white;
+}
+
+.btn-detail-product:hover {
+    color: white;
+    box-shadow: inset 140px 0 0 0 #17a2b8;
+}
+
+.one-product-list:hover .btn-detail-product {
+    transform: translateX(0px);
+}
+
+.btn-cart-now {
+    width: 48%;
+    border: 1px solid lightgray;
+    margin-bottom: 10px;
+    transition: 0.6s;
+    box-shadow: inset 0 0 0 0 white;
+    color: #333333;
+}
+
+.btn-cart-now:hover {
+    box-shadow: inset 140px 0 0 0 #333333;
+    color: white;
+}
+
+.one-product-list:hover .btn-cart-now {
+    transform: translateX(0px);
+}
+
+.wanna-detail {
+    text-align: right;
+    margin: 20px 0 10px 0;
+    font-size: 18px;
+}
+
+/*end one product*/
+/**/
+
+.contain-btn-xemthem {
+    width: 100%;
+    text-align: center;
+    margin: 40px auto;
+}
+
+.btn-xemthem {
+    width: 30%;
+    color: #fff;
+    border: 0px;
+    background: #c21d32;
+    outline: none !important;
+}
+
+/*Hết phần content*/

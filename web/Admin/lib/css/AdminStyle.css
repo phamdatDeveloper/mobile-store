@@ -1,0 +1,212 @@
+body {
+    margin: 0;
+}
+/* Vertical Tabs */
+.vertical-tabs{
+    font-size:15px;
+    color:#000
+}
+.vertical-tabs .nav-tabs .nav-link{
+    border-radius: 0;
+    background:#138496;
+    text-align:center;
+    font-size: 16px;
+    border: 1px #424242;
+    color:#fff;
+    height:40px;
+    width: 280px;
+}
+.vertical-tabs .nav-tabs .nav-link.active{
+    background-color:#2B2B2B!important;
+    color:#fff;
+    border: 1px solid white;
+}
+.vertical-tabs .tab-content>.active{
+    background:#fff;
+    display:block;
+}
+.vertical-tabs .nav.nav-tabs{
+    border-bottom:0;
+    display:block;
+    float:left;
+    margin-right:20px;
+    padding-right:1px;
+    background: #138496;
+    text-align: left;
+}
+.vertical-tabs .sv-tab-panel{
+    background:#fff;
+    height:274px;
+    padding-top:10px;
+}
+@media only screen and (max-width: 420px){
+    .titulo{font-size: 22px}
+}
+@media only screen and (max-width: 325px){
+    .vertical-tabs{ padding:8px;}
+}
+footer{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    color:#fff;
+    font-size: 9px;
+}
+ .trangchu p {
+   margin-bottom: 0px; !important;
+ }
+
+ /*TTSP*/
+
+p.title-info {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.info-text {
+    width: 30%;
+    float: left;
+}
+
+input[type="text"] {
+    margin-bottom: 10px;
+    width: 300px;
+    text-align: center;
+}
+input[type="reseach"] {
+    margin-bottom: 10px;
+    width: 200px;
+    text-align: center;
+}
+
+form {
+    float: left;
+}
+
+textarea#text-for-motasp {
+    margin: 20px 0 5px -274px;
+}
+/*Chinh sua sp*/
+.tools {
+    margin-top: 5px;
+}
+
+.heigh-40 {
+    height: 40px;
+    border-radius: 5px;
+    margin-right: 20px;
+}
+
+.button-adding {
+    margin-top: -4px;
+}
+
+.padding-element {
+    padding: 0 5px;
+}
+
+nav {
+    transform: translateX(30%);
+}
+td.set {
+    padding: 8px;
+    text-align: center;
+}
+/* Bìa viết*/
+
+.title{
+    padding: 10px 10px 10px 0px;
+    font-size: 17px;
+    font-weight: bold;
+    background-color: #007fff;
+}
+.select{
+    width: 100px;
+    /* border: none; */
+    border-radius: 5px;
+    height: 30px;
+    padding: 3px;
+}
+.input-search{
+    border-radius: 5px;
+    border: 1px solid rgba(41, 51, 46, 0.33);
+    height: 29px;
+}
+
+#btn-addnew{
+    width: 100px;
+    border: none;
+    border-radius: 7px;
+    height: 40px;
+    margin-top: 15px;
+    outline: none  !important;
+    cursor: pointer;
+    color: white;
+    background-color: #007fff;
+}
+.btn-addnew:hover{
+    box-shadow:0px 0px 10px #444;
+}
+
+.btn-add-delete{
+    width: 100px;
+    border: none;
+    border-radius: 7px;
+    height: 40px;
+    margin-top: 15px;
+    outline: none  !important;
+    cursor: pointer;
+    color: white;
+    background-color: #007fff;
+}
+.input-file{
+
+    border: 1px solid #c3c2c2;
+    padding: 5px;
+    width: 50%;
+    margin-bottom: 5px;
+}
+.img-detail{
+    width: 80px;
+    height: 80px;
+    margin-bottom: 5px;
+    margin-left: 10px;
+    border: 2px solid #c3c2c2;
+    padding: 3px;
+}
+.input-stt{
+    width: 30px;
+}
+nav  {
+}
+/*chỉnh sửa khác hàng*/
+.select-tag{
+    width: 70%;
+    margin-bottom: 6px;
+}
+.margin8{
+    width: 70%;
+    margin: 6px 0px ;
+}
+.contain-btn{
+    margin-top: 20px;
+}
+.two-btn{
+    width: 60px;
+    border: none;
+    border-radius: 5px;
+    height: 30px;
+    outline: none;
+    background-color: #007fff;
+}
+.edit{
+    width: 70px;
+    height: 40px;
+    padding: 10px;
+    font-size: 17px;
+    text-align: center;
+    border-radius: 8px;
+    background-color: red;
+}
+

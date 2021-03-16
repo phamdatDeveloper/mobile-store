@@ -1,0 +1,23 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="ProjectWeb_1920:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/ProjectWeb_1920_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="ProjectWeb_1920/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="ProjectWeb_1920" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="lib" />
+          <element id="library" level="project" name="lib1" />
+          <element id="library" level="project" name="lib2" />
+          <element id="library" level="project" name="lib3" />
+          <element id="library" level="project" name="lib4" />
+          <element id="library" level="project" name="lib5" />
+          <element id="library" level="project" name="lib6" />
+          <element id="library" level="project" name="lib7" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
